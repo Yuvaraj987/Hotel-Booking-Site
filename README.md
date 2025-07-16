@@ -63,4 +63,6 @@ A modern web application for hotel bookings, allowing users to search, book, and
 
 ---
 
-**Author:** Developed by [Yuvaraj987](https://github.com/Yuvaraj987)
+## Author
+
+Developed by [Yuvaraj987](https://github.com/Yuvaraj987)
